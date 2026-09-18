@@ -24,7 +24,7 @@ function App() {
         },
           {
           path: 'who',
-          element: <Whoarewe />
+          element: <WhoArWwe />
         },
         {
           path: '*',
