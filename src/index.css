@@ -1,0 +1,10 @@
+
+@import "tailwindcss";
+@import "flowbite-react/plugin/tailwindcss";
+@import "font-awesome/css/font-awesome.min.css";
+
+@source "../.flowbite-react/class-list.json";
+
+body {
+  margin: 0;
+}
