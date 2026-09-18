@@ -1,4 +1,4 @@
-import Searches from "./searches";
+import Searches from "./Searches";
 
 
 export default function Blog() {
