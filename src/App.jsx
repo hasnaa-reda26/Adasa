@@ -4,7 +4,7 @@ import Blog from './pages/Blog'
 import Layout from './components/Layout'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import NotFound from './components/NotFound'
-import Whoarewe from './components/Whoarewe'
+import Whoarewe from './components/WhoAreWe'
 import Newblog from './components/Newblog'
 
 function App() {
