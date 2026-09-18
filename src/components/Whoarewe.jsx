@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Whoarewe() {
+export default function WhoArWwe() {
   return (
     <>
       <div className="bg-[#0a0a0a]">
